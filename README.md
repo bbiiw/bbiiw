@@ -5,9 +5,9 @@
 
 ---
 ### :man_technologist: About Me :
-Hello! My name is Wongwiwat Neamoon, but you can call me "BIW". Currently, I am a undergraduate student majoring in Information Technology at King Mongkut's Institute of Technology Ladkrabang (KMITL) in Thailand. 🧑🏻‍💻
+Hello! My name is Wongwiwat Neamoon, but you can call me "BIW". Currently, I'm an undergraduate student at the School of Information Technology at King Mongkut's Institute of Technology Ladkrabang (KMITL)
 
-I have been studying programming for 3 years now. I started learning on my own and have been determined to continue exploring this field. I enjoy constantly seeking and acquiring new knowledge in programming. I am also someone who loves solving problems using logic and algorithms. Therefore, I really love studying in this field and I'm very excited about continuing my education in it! 💘
+  I have been studying programming for 3 years now. Currently, I'm studying in the 2nd year, and I'm learning about programming. I have a passion for technology and programming, which led me to decide to pursue this field. Currently, I have learned several programming languages such as Python, Java, and C, which helps me understand and create diverse programs. Additionally, I'm interesting in various aspects of IT, such as database development and management, web application development, and collaborating with new technologies to create interesting and useful products for users.
 
 ---
 ### :envelope: Contact Me :
