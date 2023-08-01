@@ -18,7 +18,7 @@ Hello! My name is Wongwiwat Neamoon, but you can call me "BIW". Currently, I'm a
   <a href="https://www.instagram.com/bbiiw__/">
     <img src="https://img.shields.io/badge/instagram-deeppink?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/wongwiwat-neamoon-290148242/">
+  <a href="https://www.linkedin.com/in/bbiiw">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
